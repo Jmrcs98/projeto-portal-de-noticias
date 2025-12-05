@@ -16,7 +16,7 @@ O projeto está disponível em: https://jmrcs98.github.io/projeto-portal-de-noti
 
 ## ✅ Funcionalidades / Estrutura
 
-- Layout organizado por CSS Grid — com header, navegação, seções de notícia e rodapé. :contentReference[oaicite:0]{index=0}  
+- Layout organizado por CSS Grid — com header, navegação, seções de notícia e rodapé.  
 - Seções de categorias (ex: Inteligência Artificial, Realidade Virtual, Internet etc.)  
 - Cards ou blocos para cada notícia, com título e contexto  
 - Design responsivo (se implementado responsividade)  
